@@ -1,0 +1,7 @@
+
+@use '../utils/variables' as vars;
+
+main{
+    background-color: vars.$primary-color
+}
+
